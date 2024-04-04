@@ -3,7 +3,7 @@
 I am Maxime, a fullstack developper from Nantes - France <img src="https://camo.githubusercontent.com/91569e9a7327b49d7d2d017932b67fddc645967030c6342b64020a6bf7dd11a4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67" width="15" height="15" alt="french flag"/> ! </p>
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)([https://www.linkedin.com/in/your_username](https://www.linkedin.com/in/maxime-lorent-860090213/))
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/maxime-lorent-860090213/)
 
 ## 💻 Things I code with :
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
