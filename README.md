@@ -11,9 +11,6 @@
             margin: 0;
             padding: 0;
         }
-        .container {
-           
-        }
         .image_container {
             width: 30%;
         }    
