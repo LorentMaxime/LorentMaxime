@@ -32,7 +32,7 @@ I am Maxime, a fullstack developper from Nantes - France <img src="https://camo.
 ## 🎓 Places I learn new stuff:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-![](https://komarev.com/ghpvc/?username=LorentMaxime)
+![](https://komarev.com/ghpvc/?username=LorentMaxime&style=for-the-badge)
 
 <!--
 **LorentMaxime/LorentMaxime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
