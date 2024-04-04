@@ -25,7 +25,7 @@ I am Maxime, a fullstack developper from Nantes - France <img src="https://camo.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorentMaxime&show_icons=true&theme=radical)](https://github.com/lorentmaxime/github-readme-stats)
 
 ## ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <hr />
 
