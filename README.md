@@ -21,7 +21,8 @@ I am Maxime, a fullstack developper from Nantes - France <img src="https://camo.
 ## 🎓 Places I learn new stuff:
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white) ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorentMaxime&show_icons=true&theme=radical)](https://github.com/lorentmaxime/github-readme-stats)
+## My github's stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LorentMaxime&show_icons=true&theme=tokyonight)](https://github.com/lorentmaxime/github-readme-stats)
 
 
 <hr />
