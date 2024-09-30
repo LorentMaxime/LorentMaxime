@@ -1,6 +1,6 @@
 # 👋  Hey, nice to see you! 
 <p> Welcome to my page ! <br />
-I am Maxime, a fullstack developper from Nantes - France <img src="https://camo.githubusercontent.com/91569e9a7327b49d7d2d017932b67fddc645967030c6342b64020a6bf7dd11a4/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3139372f3139373536302e706e67" width="15" height="15" alt="french flag"/> ! </p> <br />
+I am Maxime, a fullstack developper from Nantes - France 🇫🇷 ! </p> <br />
 <p>Herre you will find mostly some projects I worked on during my web developper training course, and some projects to apply languages or tools from my self-training and technical monitoring</p>
 
 
